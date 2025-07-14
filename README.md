@@ -10,7 +10,7 @@ Bu proje, gençler ve çocuklar arasında artan **problemli internet kullanımı
 
 🎓 **Danışman**: Doç. Dr. Murtaza Cicioğlu  
 🏫 **Üniversite**: Bursa Uludağ Üniversitesi – Bilgisayar Mühendisliği  
-📅 **Yıl**: 2025  
+📅 **Yıl**: 2024-2025  
 
 ---
 
