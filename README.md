@@ -4,9 +4,9 @@
 Bu proje, gençler ve çocuklar arasında artan **problemli internet kullanımını** tespit etmek ve tahmin etmek amacıyla yapay zeka temelli bir sistem geliştirmektedir. Kaggle platformundaki **Healthy Brain Network** veri seti kullanılarak makine öğrenmesi, zaman serisi analizi, LSTM ve Prophet gibi teknikler kullanılmıştır.
 
 📁 **Proje Sahipleri**:
-- Ali Can Ayhan – 032190050    
-- Edanur Yıldız – 032190078  
-- Gülsüm Küntür – 032190086  
+- Ali Can Ayhan    
+- Edanur Yıldız  
+- Gülsüm Küntür  
 
 🎓 **Danışman**: Doç. Dr. Murtaza Cicioğlu  
 🏫 **Üniversite**: Bursa Uludağ Üniversitesi – Bilgisayar Mühendisliği  
